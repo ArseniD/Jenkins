@@ -43,3 +43,22 @@ Once the VM boots, you can visit http://jenkins/ to confirm that Nginx and jenki
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [<img src="https://avatars.githubusercontent.com/u/3982200?v=3" width="100px;"/><br /><sub>Daniel Kraft</sub>](https://github.com/frigginglorious)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=frigginglorious) | [<img src="https://avatars.githubusercontent.com/u/8503331?v=3" width="100px;"/><br /><sub>Mayank Badola</sub>](https://github.com/mbad0la)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=mbad0la) 🔧 | [<img src="https://avatars.githubusercontent.com/u/5244986?v=3" width="100px;"/><br /><sub>Marco Biedermann</sub>](https://www.marcobiedermann.com)<br />🎨 | [<img src="https://avatars.githubusercontent.com/u/22768990?v=3" width="100px;"/><br /><sub>Itai Steinherz</sub>](https://github.com/itaisteinherz)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=itaisteinherz) | [<img src="https://avatars1.githubusercontent.com/u/305339?v=3" width="100px;"/><br /><sub>Patrick Connolly</sub>](http://nodescription.net)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=patcon) | [<img src="https://avatars2.githubusercontent.com/u/3028124?v=4" width="100px;"/><br /><sub>Nikola Đuza</sub>](http://nikolalsvk.github.io/)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=nikolalsvk) |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+<table cellspacing="0"><thead>
+<th scope="col">#</th>
+<th scope="col">User</th>
+<th scope="col">Contribs</th>
+<!-- Language currently disabled: GitHub returns 'Shell' for most users <th scope="col">Language</th> -->
+<th scope="col">Location</th>
+<th scope="col" width="30">Picture</th>
+</thead><tbody>
+<tr>  <th scope="row">#1</th>  <td><a href="https://github.com/GrahamCampbell">GrahamCampbell</a> (Graham Campbell)</td>  <td>11088</td>  <!-- <td>Python</td> -->  <td>The United Kingdom</td>  <td><img width="30" height="30" src="https://avatars3.githubusercontent.com/u/2829600?v=3&s=400"></td></tr>
+<tr>  <th scope="row">#2</th>  <td><a href="https://github.com/fabpot">fabpot</a> (Fabien Potencier)</td>  <td>10000</td>  <!-- <td>Shell</td> -->  <td>Paris, France</td>  <td><img width="30" height="30" src="https://avatars2.githubusercontent.com/u/47313?v=3&s=400"></td></tr>
+<tr>  <th scope="row">#3</th>  <td><a href="https://github.com/weierophinney">weierophinney</a> (Matthew Weier O'Phinney)</td>  <td>9946</td>  <!-- <td>Shell</td> -->  <td>Sioux Falls, SD, USA</td>  <td><img width="30" height="30" src="https://avatars3.githubusercontent.com/u/25943?v=3&s=400"></td></tr>
+</tbody></table>
+
+
+
+
+
+
