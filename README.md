@@ -46,8 +46,8 @@ Once the VM boots, you can visit http://jenkins/ to confirm that Nginx and jenki
 <th scope="col">Location</th>
 <th scope="col" width="30">Picture</th>
 </thead><tbody>
-<tr><th scope="row">#1</th><td><a href="https://github.com/ArseniD">ArseniD</a> (Arseni Dudko)</td><td></td><!-- <td>Python</td> --><td>Republic of Belarus</td>nginx<td><img width="30" height="30" src="https://avatars.githubusercontent.com/u/15673522?v=3"></td></tr>
-<tr><th scope="row">#2</th><td><a href="https://github.com/ven-ven9l">ven-ven9l</a> (Andrey Bondarovich)</td><td>vagrantfile</td><!-- <td>Shell</td> --><td>Republic of Belarus</td>  <td><img width="30" height="30" src="https://avatars.githubusercontent.com/u/32544150?v=3"></td></tr>
+<tr><th scope="row">#1</th><td><a href="https://github.com/ArseniD">ArseniD</a> (Arseni Dudko)</td><td>nginx</td><!-- <td>Python</td> --><td>Republic of Belarus</td><td><img width="30" height="30" src="https://avatars.githubusercontent.com/u/15673522?v=3"></td></tr>
+<tr><th scope="row">#2</th><td><a href="https://github.com/ven-ven9l">ven-ven9l</a> (Andrey Bondarovich)</td><td>vagrantfile</td><!-- <td>Shell</td> --><td>Republic of Belarus</td><td><img width="30" height="30" src="https://avatars.githubusercontent.com/u/32544150?v=3"></td></tr>
 <tr><th scope="row">#3</th><td><a href="https://github.com/dzmitrytarasevich">dzmitrytarasevich</a> (Dzmitry Tarasevich)</td><td>jenkins inid</td><!-- <td>Shell</td> --><td>Republic of Belarus</td>  <td><img width="30" height="30" src="https://avatars.githubusercontent.com/u/32546999?v=3"></td></tr>
 </tbody></table>
 
