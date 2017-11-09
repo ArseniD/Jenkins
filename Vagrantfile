@@ -20,17 +20,6 @@ Vagrant.configure("2") do |config|
     end
 
     jenkins_config.vm.provision "shell", path: "provision.sh"
-    #server_config.vm.provision "file", source: "zabbix.conf.php", destination: "/etc/zabbix/web/zabbix.conf.php"
-    #server_config.vm.provision "file", source: "reg_zab_host.py", destination: "/opt/reg_zab_host.py"
-    #server_config.vm.provision "shell", path: "reg_zab_host.py"
-
-    # Make a modifications take effect with new tomcat server.xml file
-    #agent_config.vm.proviion "shell", inline: <<-SHELL
-    #	systemctl start tomcat && systemctl enable tomcat
-    #SHELL
 
   end
-
-
-
 end

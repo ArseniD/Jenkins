@@ -49,7 +49,8 @@ yum -y install nginx > /dev/null 2>&1
 ########################
 # Configuring nginx
 ########################
-#echo "Configuring nginx"
+echo "Configuring nginx"
+sed -e 's/80/8081/' -i /etc/nginx/nginx.conf
 cat > /etc/nginx/conf.d/jenkins.conf << EOF
 upstream app_server {
     server 127.0.0.1:8080 fail_timeout=0;
