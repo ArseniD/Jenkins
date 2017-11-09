@@ -36,6 +36,7 @@ wget -P /var/lib/jenkins/plugins https://repo.jenkins-ci.org/releases/org/jenkin
 wget -P /var/lib/jenkins/plugins https://repo.jenkins-ci.org/releases/org/jenkins-ci/plugins/email-ext/2.61/email-ext-2.61.hpi
 wget -P /var/lib/jenkins/plugins https://repo.jenkins-ci.org/releases/org/jenkins-ci/plugins/role-strategy/2.6.1/role-strategy-2.6.1.hpi
 wget -P /var/lib/jenkins/plugins https://updates.jenkins-ci.org/download/plugins/chucknorris/1.0/chucknorris.hpi
+
 systemctl start jenkins && systemctl enable jenkins
 
 
@@ -49,7 +50,8 @@ yum -y install nginx > /dev/null 2>&1
 ########################
 # Configuring nginx
 ########################
-#echo "Configuring nginx"
+echo "Configuring nginx"
+sed -e 's/80/8081/' -i /etc/nginx/nginx.conf
 cat > /etc/nginx/conf.d/jenkins.conf << EOF
 upstream app_server {
     server 127.0.0.1:8080 fail_timeout=0;
