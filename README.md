@@ -38,9 +38,4 @@ as follows:
 
 Once the VM boots, you can visit http://jenkins/ to confirm that Nginx and jenkins server is running (it should display the jenkins startup page without port).
 
-| [<img src="https://avatars.githubusercontent.com/u/15673522?v=4" width="100px;"/><br />
-<sub>Arseni Dudko</sub>]<br />💁 [📖](https://github.com/ArseniD) 👀 📢 
-| [<img src="https://avatars.githubusercontent.com/u/32544150?v=4" width="100px;"/><br />
-<sub>Andrey Bagdanovich</sub>]<br />[📖](https://github.com/ven-ven9l) 👀
-| [<img src="https://avatars.githubusercontent.com/u/32546999?=4" width="100px;"/><br />
-<sub>Dzmitry Tarasevich</sub>]<br />[📖](https://github.com/dzmitrytarasevich) 👀 |
+| [<img src="https://avatars.githubusercontent.com/u/15673522?v=4" width="100px;"/><br /><sub>Arseni Dudko</sub>]<br />💁 [📖](https://github.com/ArseniD) 👀 📢 | [<img src="https://avatars.githubusercontent.com/u/32544150?v=4" width="100px;"/><br /><sub>Andrey Bagdanovich</sub>]<br />[📖](https://github.com/ven-ven9l) 👀| [<img src="https://avatars.githubusercontent.com/u/32546999?=4" width="100px;"/><br /><sub>Dzmitry Tarasevich</sub>]<br />[📖](https://github.com/dzmitrytarasevich) 👀 |
